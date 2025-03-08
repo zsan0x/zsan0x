@@ -83,14 +83,8 @@ console.log(shadow.initiateConnection());
   <a href="https://t.me/zsan0x" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="mailto:contact@zsan0x.com" target="_blank">
+  <a href="mailto:amzsan0x@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Encrypted_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/-Dark_Web-8B00FF?style=for-the-badge&logo=tor-browser&logoColor=white" alt="Dark Web" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/-Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white" alt="Signal" />
   </a>
 </div>
 
