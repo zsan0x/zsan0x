@@ -2,7 +2,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zsan0x&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" width="48%" alt="zsan0x's github stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zsan0x&theme=radical&hide_border=true" width="48%" alt="zsan0x's github streak"/>
 </div>
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Root Access Granted
